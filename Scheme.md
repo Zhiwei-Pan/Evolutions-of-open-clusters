@@ -26,13 +26,19 @@ TOPCAT: easy to crosshatch, e.g. 2MASS
 
 ## Division of labour
 
-Scheme design：Zhiwei Pan
+### Scheme design：Zhiwei Pan
 
-Literature reading: Yu Qiu, Yuxuan Pang, Zhiwei Pan
+### Literature reading: Yu Qiu, Yuxuan Pang, Zhiwei Pan
 
-Process 1 trying : Zhiwei Pan
+### Process 1 trying : 
 
-PPT:
+download daia data of  Dolidze 41: Zhiwei Pan
 
-Presentation:
+crossmatch:
+
+Data reduction:
+
+### PPT:
+
+### Presentation:
 
