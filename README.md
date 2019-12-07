@@ -4,3 +4,5 @@
 
 ## Dolidze41.ipynb is the code. I fail to distinguish cluster memerberships, lets make it together!
 
+data: http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=J/A+A/618/A93
+
