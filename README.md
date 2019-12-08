@@ -4,6 +4,6 @@
 
 ## data: http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=J/A+A/618/A93
 
-## query.ipynb: a ADQL code to download GAIA data
+## query.ipynb: a ADQL code to download GAIA data.     tutorial:https://github.com/Johannes-Sahlmann/pygacs
 
 
