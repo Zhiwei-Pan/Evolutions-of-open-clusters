@@ -1,0 +1,97 @@
+
+\documentclass[modern]{aastex63}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{multirow}
+\usepackage{comment}
+\usepackage{natbib}
+\usepackage{hyperref}
+\usepackage{mathtools}
+\usepackage{longtable}
+\usepackage{mathrsfs}
+\usepackage{fontenc}
+\usepackage{color}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{gensymb}
+\usepackage{pifont}
+
+
+
+\begin{document}
+\title{Final Project Reports}
+\author{Yu Qiu}
+\affiliation{Kavli Institute for Astronomy and Astrophysic \\
+Peking University \\
+Beijing 100871, China}
+\author{Yuxuan Pang}
+\affiliation{Kavli Institute for Astronomy and Astrophysic \\
+Peking University \\
+Beijing 100871, China}
+\author{Zhiwei Pan}
+\affiliation{Kavli Institute for Astronomy and Astrophysic \\
+Peking University \\
+Beijing 100871, China}
+\email{1901110222.pku.edu.cn}
+\email{1901110222.pku.edu.cn}
+\email{1901110222.pku.edu.cn}
+
+\begin{abstract}
+In this project, we study the methods of open cluster membership selection and discuss the appliable conditions for simple method. We also use the photomerty and astrometry information from Gaia DR2 to estimate the age of individual cluster from literature by CMD isochrone fitting. At last, we study the evolution peroperties of open cluster.
+
+
+\end{abstract}
+
+\keywords{open cluster --- astrometry --- CMD --- evolution}
+
+
+\section{Introduction}\label{sec:intro}
+An open cluster is a group of up to a few thousand stars that were formed from the same giant molecular cloud and have roughly the same age. The most important characteristic of the open clusters is that they are loosely bound by mutual gravitational attraction and will gradually lose their stellar content. Generally, their evolution can be split into three phases: (i) the first lasts for $\sim$ 3 Myr, during which the cluster in embedded in its progenitor molecular cloud and stars are still forming; (ii) then the clusters experience the expulsion of the residual star-forming gas; and finally, (iii) the long term evolutionary phase dominated by both internal and external dynamical processes. Such physcial properties and evolutionary characteristics make the open cluster widely used to trace the histroy of the Galactic disk and stellar evolution.
+Our project aims to explore the evolution of the open cluster through statistics and analysis of the cluster samples based on the data of Gaia DR2. So far, more than 3,000 open clusters have been discovered within the Milky Way Galaxy and many more are thought to exist. Since their population may cover a wide range of age and some physcical properties, we can investigate the relation between the mass, radius or velocity dispersion and age to trace the evolution of these properties and find out how the clusters dissipate and lose stellar mass and maybe some other interesting things.
+
+In Section \ref{selection}, we will talk about selection. In Section \ref{age}, we will talk abput age. In Section \ref{evolution}, we will talk about evolution. In Section \ref{con}, we will make a summary.
+
+\bigskip
+\bigskip
+\section{Cluster Membership selection}\label{selection}
+
+
+
+
+
+
+\bigskip
+\bigskip
+\section{age determination}\label{age}
+
+
+
+
+\bigskip
+\bigskip
+\section{evolution of open clusters}\label{evolution}
+
+
+
+
+\bigskip
+\bigskip
+\section{conclusions}\label{con}
+In this project, we study the methods of open cluster membership selection and discuss the appliable conditions for simple method. We also use the photomerty and astrometry information from Gaia DR2 to estimate the age of individual cluster from literature by CMD isochrone fitting. At last, we study the evolution peroperties of open cluster.
+
+
+\acknowledgments
+We sincerely thank to Xiaoting Fu's generous help and advice. 
+
+\newpage
+\bibliography{colloquim}{}
+\bibliographystyle{aasjournal1}
+
+
+
+
+
+
+\end{document}
+
+% End of file `sample63.tex'.
